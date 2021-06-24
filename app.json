@@ -1,0 +1,7 @@
+{
+  "name": "NeoGo",
+  "description": "🤖 Discord Utility Bot built with discord.js",
+  "repository": "https://github.com/RocketSpot/NeoGo",
+  "logo": "https://ibb.co/DGg38cX",
+  "keywords": ["discord", "discordjs", "utilities", "moderation", "bot"]
+}
